@@ -1,0 +1,50 @@
+.container {
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.chooseContent {
+    background-image: url(./choose.svg);
+
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.subtitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+.btn {
+    border: none;
+    background: #037E8C;
+    border-radius: 9px;
+    padding: 10px 20px;
+    margin-left: 250px;
+}
+
+.btn {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 130%;
+    color: #FFFFFF;
+}

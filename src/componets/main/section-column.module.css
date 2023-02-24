@@ -1,0 +1,25 @@
+
+.sectionColumn {
+    margin-top: 47px;
+}
+.sectionColumnWrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.columnTitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 108.7%;
+    color: #121214;
+}
+.columnSubtitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    color: #121214;
+}

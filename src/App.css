@@ -1,0 +1,10 @@
+.container {
+    max-width: 1350px;
+    margin: 0 auto;
+}
+.pages {
+    background-image: url(./fonImg.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 918px;
+}
